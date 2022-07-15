@@ -1,3 +1,4 @@
+![Financial Report DashBoard](https://user-images.githubusercontent.com/108492188/179177388-fb6fbcc0-a70c-4d2a-b232-6a42c3ffc050.PNG)
 -------
 #DESCRIPTION
 ----
